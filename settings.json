@@ -1,21 +1,21 @@
 {
-  "name": "AFK Bot",
-  "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
-    "type": "offline"
+  "name": "Mr>juice",
+  "bot-account":Mr.juice {
+    "username": "mr.juice",
+    "password": "20150700805",
+    "type": "online"
   },
-  "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
+  "server":NoMoreSMP {
+    "ip": "NoMoreSMP.aternos.me:25490",
     "port": 62213,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "6": 0,
+    "286": 100,
+    "10": 0
   },
   "utils": {
     "auto-auth": {
